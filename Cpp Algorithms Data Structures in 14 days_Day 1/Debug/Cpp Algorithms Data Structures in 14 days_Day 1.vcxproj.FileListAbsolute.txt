@@ -1,0 +1,2 @@
+C:\Users\emmet\source\repos\Cpp Algorithms Data Structures in 14 days_Day 1\Debug\Cpp Algorithms Data Structures in 14 days_Day 1.exe
+C:\Users\emmet\source\repos\Cpp Algorithms Data Structures in 14 days_Day 1\Debug\Cpp Algorithms Data Structures in 14 days_Day 1.pdb
